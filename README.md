@@ -1,6 +1,9 @@
 ![A passionate frontend developer from Israel](https://media-exp1.licdn.com/dms/image/C5616AQFNsLJSGgu8jQ/profile-displaybackgroundimage-shrink_350_1400/0/1635699524899?e=1643241600&v=beta&t=eUs63AtrVFvTucjnKyaTipSf8JGBUSYAk9cICoIErUg)
-### Hi there 👋, my name is Hoshen
+### Hello 👋 I’m Hoshen !
 #### A passionate frontend developer from Israel
+♟️ I'm a chess player .
+💪 I love to write code.
+📚 Like to read books.
 
 Hi , I'm a passionate Full Stack Developer ( and Chess player ) with a strong desire to learn and grow.
 For both, I take advantage of every chance to get better, I am resourceful & focused, constantly seeking opportunities to get out of my comfort zone.
