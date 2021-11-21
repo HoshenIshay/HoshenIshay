@@ -1,6 +1,4 @@
-### Hi there 👋
-I'm Hoshen from Israel 
-[![Hoshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoshenIshay)](https://github.com/anuraghazra/github-readme-stats)
+###
 <h1 align="center">Hi 👋, I'm Hoshen</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
 
