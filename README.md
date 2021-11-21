@@ -6,6 +6,7 @@ Hi , I'm a passionate Full Stack Developer ( and Chess player ) with a strong de
 For both, I take advantage of every chance to get better, I am resourceful & focused, constantly seeking opportunities to get out of my comfort zone.
 
 ✔️ An expert in JavaScript , Angular and React
+
 ✔️ Highly Experienced in Python , Java and C#
 
 Currently looking for a junior position as a Full Stack Developer / Software Engineer in the Central District of Israel.
