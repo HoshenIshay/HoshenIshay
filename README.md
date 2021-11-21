@@ -2,7 +2,9 @@
 ### Hello 👋 I’m Hoshen !
 #### A passionate frontend developer from Israel
 ♟️ I'm a chess player .
+
 💪 I love to write code.
+
 📚 Like to read books.
 
 Hi , I'm a passionate Full Stack Developer ( and Chess player ) with a strong desire to learn and grow.
