@@ -1,4 +1,4 @@
-![A passionate frontend developer from Israel](https://media-exp1.licdn.com/dms/image/C5616AQFNsLJSGgu8jQ/profile-displaybackgroundimage-shrink_350_1400/0/1635699524899?e=1643241600&v=beta&t=eUs63AtrVFvTucjnKyaTipSf8JGBUSYAk9cICoIErUg)
+![A passionate frontend developer from Israel](https://media-exp1.licdn.com/dms/image/C5616AQFNsLJSGgu8jQ/profile-displaybackgroundimage-shrink_350_1400/0/1635699524899?e=1650499200&v=beta&t=ewnf3qk7UPjUmDWgqeS72CtXekiDbsAGqNtQScvx_As)
 ### Hello 👋 I’m Hoshen !
 #### A passionate frontend developer from Israel
 ♟️ I'm a chess player .
