@@ -27,9 +27,7 @@ Available to work full-time .
   <a href="https://www.linkedin.com/in/hoshen-ishay/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="hoshen192020@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hoshen-ishay-3365041bb/)  
+ 
 
 
 
