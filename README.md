@@ -32,7 +32,7 @@ Available to work full-time .
 
 
 <p>
-<a href="https://github.com/omer117">
+<a href="https://github.com/HoshenIshay">
   <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HoshenIshay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HoshenIshay&layout=compact&langs_count=8&theme=algolia"/>
 </a>
