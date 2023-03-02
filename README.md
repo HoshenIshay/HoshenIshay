@@ -2,7 +2,7 @@
 ### 👋 Greetings! 
 I am Hoshen, a passionate wizard of the frontend development realm hailing from Israel 🧙‍♂️.
 
-<h5>About Me<h5/>
+<h5>About Me</h5>
 
 As a chess lover ♟️ and coding enthusiast 💻, 
 I love to engage my mind in both strategic thinking and creative problem-solving.
@@ -21,7 +21,7 @@ I am constantly seeking to expand my knowledge and challenge myself by venturing
 With my powerful wand of resourcefulness and laser-like focus 🔍, 
 
 I am always seeking new opportunities to cast spells of innovation 🎉.
-
+<br/>
 
 Currently, I am on a quest for a junior position as a Full Stack Developer/Software Engineer in the magical Central District of Israel 🧐. 
 
