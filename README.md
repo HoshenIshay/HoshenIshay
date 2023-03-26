@@ -23,7 +23,7 @@ With my powerful wand of resourcefulness and laser-like focus 🔍,
 I am always seeking new opportunities to cast spells of innovation 🎉.
 <br/>
 
-Currently, I am on a quest for a junior position as a Full Stack Developer/Software Engineer in the magical Central District of Israel 🧐. 
+Currently, I am on a quest for a junior position as a Full Stack Developer/Software Engineer in the magical Central District of Israel. 
 
 If you require a highly skilled and devoted team member, do not hesitate to call upon me ⚡. 
 
