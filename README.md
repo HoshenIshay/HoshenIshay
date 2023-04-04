@@ -2,7 +2,7 @@
 ### 👋 Greetings! 
 I am Hoshen, a passionate wizard of the frontend development realm hailing from Israel 🧙‍♂️.
 
-<h5>About Me</h5>
+<h5>About Me :</h5>
 
 As a chess lover ♟️ and coding enthusiast 💻, 
 I love to engage my mind in both strategic thinking and creative problem-solving.
