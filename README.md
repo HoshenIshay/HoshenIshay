@@ -1,5 +1,4 @@
 ![A passionate frontend developer from Israel](https://media-exp1.licdn.com/dms/image/C5616AQFNsLJSGgu8jQ/profile-displaybackgroundimage-shrink_350_1400/0/1635699524899?e=2147483647&v=beta&t=3T5aQEgCO1eBX4sjcK-q4Dv1-8udg0Vzr94g1Y461hc)
-**👋 Greetings!**
 I'm **Hoshen** 👋 , a passionate frontend developer with a strong love for clean code, smart solutions, and a good challenge.
 
 ### About Me:
