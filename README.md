@@ -1,33 +1,15 @@
 ![A passionate frontend developer from Israel](https://media-exp1.licdn.com/dms/image/C5616AQFNsLJSGgu8jQ/profile-displaybackgroundimage-shrink_350_1400/0/1635699524899?e=2147483647&v=beta&t=3T5aQEgCO1eBX4sjcK-q4Dv1-8udg0Vzr94g1Y461hc)
-### 👋 Greetings! 
-I am Hoshen, a passionate wizard of the frontend development realm hailing from Israel 🧙‍♂️.
+**👋 Greetings!**
+I'm **Hoshen** 👋 , a passionate frontend developer with a strong love for clean code, smart solutions, and a good challenge.
 
-<h5>About Me :</h5>
+### About Me:
 
-As a chess lover ♟️ and coding enthusiast 💻, 
-I love to engage my mind in both strategic thinking and creative problem-solving.
+As both a **chess enthusiast ♟️** and a **coding devotee 💻**, I enjoy combining strategic thinking with creative problem-solving. Whether it’s collaborating with my team 👨‍💻 or diving into a solo project, I find joy in turning ideas into elegant, functional experiences.
 
-You can often find me engrossed in a good book 📚 ,
+I specialize in **JavaScript, Angular, and React**, and I’m also experienced with **Node.js, Python, Java, and C#** – giving me a strong foundation across the stack.
 
-Or working collaboratively with my team 👨‍💻 to conjure up innovative solutions 💡.
+Outside of coding, you might find me deep in a book 📚 or exploring new technologies to stay sharp and inspired 💡.
 
-My skills as a Full Stack Developer are spellbinding, with expertise in the mystical arts of JavaScript
-, Angular, and React ⚡.
-
-My sorcery extends to the realms of NodeJS ,Python, Java, and C#, making me a true polymath of the programming universe 🌌.
-
-I am constantly seeking to expand my knowledge and challenge myself by venturing beyond my comfort zone 🚀. 
-
-With my powerful wand of resourcefulness and laser-like focus 🔍, 
-
-I am always seeking new opportunities to cast spells of innovation 🎉.
-<br/>
-
-Currently, I am on a quest for a junior position as a Full Stack Developer/Software Engineer in the magical Central District of Israel. 
-
-If you require a highly skilled and devoted team member, do not hesitate to call upon me ⚡. 
-
-I am available to work full-time and eager to bring my wizardry to your team 🤝.
 
 <h3 align="left">🖥️ Languages,Frameworks and Libraries:</h3>
 
