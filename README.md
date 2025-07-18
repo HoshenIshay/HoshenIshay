@@ -3,9 +3,12 @@ I'm **Hoshen** 👋 , a passionate frontend developer with a strong love for cle
 
 ### About Me:
 
-As both a **chess enthusiast ♟️** and a **coding devotee 💻**, I enjoy combining strategic thinking with creative problem-solving. Whether it’s collaborating with my team 👨‍💻 or diving into a solo project, I find joy in turning ideas into elegant, functional experiences.
+As both a **chess enthusiast ♟️** and a **coding devotee 💻**, 
+I enjoy combining strategic thinking with creative problem-solving. Whether it’s collaborating with my team 👨‍💻 or diving into a solo project, 
+I find joy in turning ideas into elegant, functional experiences.
 
-I specialize in **JavaScript, Angular, and React**, and I’m also experienced with **Node.js, Python, Java, and C#** – giving me a strong foundation across the stack.
+I specialize in **JavaScript, Angular, and React**, 
+and I’m also experienced with **Node.js, Python, Java, and C#** – giving me a strong foundation across the stack.
 
 Outside of coding, you might find me deep in a book 📚 or exploring new technologies to stay sharp and inspired 💡.
 
